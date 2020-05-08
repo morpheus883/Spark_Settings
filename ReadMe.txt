@@ -9,7 +9,7 @@ Morpheus883's Site: http://morpheus883.altervista.org/
 GitHub Repository: https://github.com/morpheus883/
 and available on the main Sat Sites
 
-Spark Settings 30th April 2020, © by Morpheus883
+Spark Settings 8th May 2020, © by Morpheus883
 
 Settings for Images based on Spark FW's:
 

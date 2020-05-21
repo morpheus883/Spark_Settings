@@ -300,7 +300,7 @@
     <transponder tp_key="267" sat_key="16" transport_stream_id="0" original_network_id="0" frequency="12641" symbol_rate="2500" fec="5/6" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="268" sat_key="16" transport_stream_id="900" original_network_id="20480" frequency="12645" symbol_rate="27500" fec="5/6" modulation_mode="QPSK" polarization="H" />
     <transponder tp_key="269" sat_key="16" transport_stream_id="0" original_network_id="0" frequency="12645" symbol_rate="27500" fec="7/8" modulation_mode="QPSK" polarization="V" />
-    <transponder tp_key="270" sat_key="16" transport_stream_id="0" original_network_id="0" frequency="12655" symbol_rate="5000" fec="5/6" modulation_mode="8PSK" polarization="V" />
+    <transponder tp_key="270" sat_key="16" transport_stream_id="1" original_network_id="1" frequency="12655" symbol_rate="5000" fec="5/6" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="271" sat_key="16" transport_stream_id="1" original_network_id="1" frequency="12661" symbol_rate="5000" fec="5/6" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="272" sat_key="16" transport_stream_id="1" original_network_id="1" frequency="12665" symbol_rate="5000" fec="5/6" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="273" sat_key="16" transport_stream_id="65500" original_network_id="1918" frequency="12687" symbol_rate="27500" fec="5/6" modulation_mode="QPSK" polarization="H" />
@@ -451,7 +451,8 @@
     <transponder tp_key="412" sat_key="19" transport_stream_id="0" original_network_id="0" frequency="11359" symbol_rate="2500" fec="2/3" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="413" sat_key="19" transport_stream_id="7" original_network_id="100" frequency="11389" symbol_rate="30000" fec="3/4" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="414" sat_key="19" transport_stream_id="8" original_network_id="100" frequency="11425" symbol_rate="30000" fec="3/4" modulation_mode="8PSK" polarization="H" />
-    <transponder tp_key="415" sat_key="19" transport_stream_id="0" original_network_id="0" frequency="11530" symbol_rate="17333" fec="2/3" modulation_mode="8PSK" polarization="H" />
+    <transponder tp_key="2017" sat_key="19" transport_stream_id="0" original_network_id="0" frequency="11524" symbol_rate="13760" fec="5/6" modulation_mode="QPSK" polarization="V" />
+    <transponder tp_key="415" sat_key="19" transport_stream_id="8" original_network_id="100" frequency="11530" symbol_rate="17333" fec="2/3" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="416" sat_key="19" transport_stream_id="0" original_network_id="0" frequency="11541" symbol_rate="3703" fec="3/4" modulation_mode="QPSK" polarization="H" />
     <transponder tp_key="417" sat_key="19" transport_stream_id="1" original_network_id="1" frequency="11568" symbol_rate="15000" fec="2/3" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="418" sat_key="19" transport_stream_id="65535" original_network_id="65535" frequency="11590" symbol_rate="3700" fec="3/4" modulation_mode="QPSK" polarization="H" />
@@ -541,7 +542,7 @@
     <transponder tp_key="498" sat_key="21" transport_stream_id="709" original_network_id="1536" frequency="12265" symbol_rate="28000" fec="7/8" modulation_mode="QPSK" polarization="V" />
     <transponder tp_key="499" sat_key="21" transport_stream_id="86" original_network_id="70" frequency="12284" symbol_rate="30000" fec="3/4" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="500" sat_key="21" transport_stream_id="2" original_network_id="94" frequency="12303" symbol_rate="27500" fec="5/6" modulation_mode="8PSK" polarization="V" />
-    <transponder tp_key="501" sat_key="21" transport_stream_id="85" original_network_id="70" frequency="12322" symbol_rate="30000" fec="3/4" modulation_mode="8PSK" polarization="H" />
+    <transponder tp_key="501" sat_key="21" transport_stream_id="85" original_network_id="86" frequency="12322" symbol_rate="30000" fec="3/4" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="502" sat_key="21" transport_stream_id="84" original_network_id="70" frequency="12360" symbol_rate="30000" fec="3/4" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="503" sat_key="21" transport_stream_id="2806" original_network_id="187" frequency="12380" symbol_rate="30000" fec="3/4" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="504" sat_key="21" transport_stream_id="75" original_network_id="70" frequency="12399" symbol_rate="30000" fec="2/3" modulation_mode="8PSK" polarization="H" />
@@ -572,8 +573,12 @@
     <transponder tp_key="527" sat_key="22" transport_stream_id="0" original_network_id="0" frequency="12212" symbol_rate="30000" fec="AUTO" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="528" sat_key="22" transport_stream_id="8" original_network_id="3" frequency="12226" symbol_rate="30000" fec="2/3" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="529" sat_key="22" transport_stream_id="9" original_network_id="3" frequency="12303" symbol_rate="30000" fec="2/3" modulation_mode="8PSK" polarization="H" />
+    <transponder tp_key="2012" sat_key="22" transport_stream_id="0" original_network_id="0" frequency="12340" symbol_rate="28000" fec="7/8" modulation_mode="QPSK" polarization="H" />
+    <transponder tp_key="2013" sat_key="22" transport_stream_id="0" original_network_id="0" frequency="12360" symbol_rate="28000" fec="7/8" modulation_mode="QPSK" polarization="V" />
     <transponder tp_key="530" sat_key="22" transport_stream_id="11" original_network_id="1" frequency="12380" symbol_rate="30000" fec="2/3" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="531" sat_key="22" transport_stream_id="0" original_network_id="0" frequency="12418" symbol_rate="30000" fec="2/3" modulation_mode="8PSK" polarization="H" />
+    <transponder tp_key="2014" sat_key="22" transport_stream_id="0" original_network_id="0" frequency="12418" symbol_rate="28000" fec="7/8" modulation_mode="QPSK" polarization="H" />
+    <transponder tp_key="2011" sat_key="22" transport_stream_id="21" original_network_id="2" frequency="12437" symbol_rate="30000" fec="2/3" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="532" sat_key="22" transport_stream_id="10" original_network_id="2" frequency="12456" symbol_rate="30000" fec="2/3" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="533" sat_key="22" transport_stream_id="0" original_network_id="0" frequency="12496" symbol_rate="30000" fec="9/10" modulation_mode="QPSK" polarization="H" />
     <transponder tp_key="534" sat_key="22" transport_stream_id="6" original_network_id="3" frequency="12524" symbol_rate="30000" fec="1/2" modulation_mode="8PSK" polarization="H" />
@@ -646,7 +651,7 @@
     <transponder tp_key="599" sat_key="23" transport_stream_id="1" original_network_id="65535" frequency="12509" symbol_rate="2200" fec="5/6" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="600" sat_key="23" transport_stream_id="0" original_network_id="0" frequency="12520" symbol_rate="2221" fec="3/4" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="601" sat_key="23" transport_stream_id="1" original_network_id="65535" frequency="12523" symbol_rate="2640" fec="3/4" modulation_mode="8PSK" polarization="H" />
-    <transponder tp_key="602" sat_key="23" transport_stream_id="1" original_network_id="1" frequency="12526" symbol_rate="4444" fec="3/4" modulation_mode="8PSK" polarization="H" />
+    <transponder tp_key="602" sat_key="23" transport_stream_id="65535" original_network_id="65535" frequency="12526" symbol_rate="4444" fec="3/4" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="603" sat_key="23" transport_stream_id="1" original_network_id="65535" frequency="12530" symbol_rate="2689" fec="3/4" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="604" sat_key="23" transport_stream_id="1" original_network_id="65535" frequency="12531" symbol_rate="2115" fec="5/6" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="605" sat_key="23" transport_stream_id="0" original_network_id="0" frequency="12534" symbol_rate="2220" fec="3/4" modulation_mode="QPSK" polarization="H" />
@@ -660,11 +665,11 @@
     <transponder tp_key="613" sat_key="23" transport_stream_id="0" original_network_id="0" frequency="12562" symbol_rate="2930" fec="3/4" modulation_mode="QPSK" polarization="H" />
     <transponder tp_key="614" sat_key="23" transport_stream_id="0" original_network_id="0" frequency="12567" symbol_rate="1667" fec="8/9" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="615" sat_key="23" transport_stream_id="1" original_network_id="65535" frequency="12571" symbol_rate="1667" fec="5/6" modulation_mode="8PSK" polarization="V" />
-    <transponder tp_key="616" sat_key="23" transport_stream_id="65535" original_network_id="65535" frequency="12574" symbol_rate="1667" fec="5/6" modulation_mode="8PSK" polarization="V" />
+    <transponder tp_key="616" sat_key="23" transport_stream_id="65535" original_network_id="65535" frequency="12574" symbol_rate="1480" fec="3/4" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="617" sat_key="23" transport_stream_id="0" original_network_id="0" frequency="12575" symbol_rate="7500" fec="2/3" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="618" sat_key="23" transport_stream_id="1" original_network_id="1" frequency="12577" symbol_rate="1515" fec="2/3" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="619" sat_key="23" transport_stream_id="0" original_network_id="0" frequency="12578" symbol_rate="1446" fec="3/4" modulation_mode="8PSK" polarization="V" />
-    <transponder tp_key="620" sat_key="23" transport_stream_id="1" original_network_id="1" frequency="12580" symbol_rate="2000" fec="5/6" modulation_mode="8PSK" polarization="V" />
+    <transponder tp_key="620" sat_key="23" transport_stream_id="65535" original_network_id="65535" frequency="12580" symbol_rate="2000" fec="5/6" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="621" sat_key="23" transport_stream_id="100" original_network_id="8492" frequency="12684" symbol_rate="13960" fec="3/5" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="622" sat_key="23" transport_stream_id="100" original_network_id="8492" frequency="12702" symbol_rate="13960" fec="3/5" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="623" sat_key="23" transport_stream_id="65535" original_network_id="65535" frequency="12714" symbol_rate="1115" fec="5/6" modulation_mode="8PSK" polarization="V" />
@@ -842,6 +847,7 @@
     <transponder tp_key="787" sat_key="27" transport_stream_id="1" original_network_id="65535" frequency="11007" symbol_rate="4800" fec="3/4" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="788" sat_key="27" transport_stream_id="1" original_network_id="65535" frequency="11010" symbol_rate="1200" fec="3/5" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="789" sat_key="27" transport_stream_id="1" original_network_id="200" frequency="11012" symbol_rate="3200" fec="3/4" modulation_mode="QPSK" polarization="H" />
+    <transponder tp_key="2015" sat_key="27" transport_stream_id="0" original_network_id="0" frequency="11028" symbol_rate="1200" fec="3/5" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="790" sat_key="27" transport_stream_id="1" original_network_id="1" frequency="11033" symbol_rate="2500" fec="3/4" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="791" sat_key="27" transport_stream_id="0" original_network_id="0" frequency="11053" symbol_rate="3255" fec="AUTO" modulation_mode="QPSK" polarization="H" />
     <transponder tp_key="792" sat_key="27" transport_stream_id="0" original_network_id="0" frequency="11086" symbol_rate="7200" fec="AUTO" modulation_mode="QPSK" polarization="H" />
@@ -871,6 +877,7 @@
     <transponder tp_key="816" sat_key="27" transport_stream_id="1" original_network_id="65535" frequency="11570" symbol_rate="1667" fec="9/10" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="817" sat_key="27" transport_stream_id="1" original_network_id="1" frequency="11573" symbol_rate="1952" fec="3/4" modulation_mode="QPSK" polarization="V" />
     <transponder tp_key="818" sat_key="27" transport_stream_id="65535" original_network_id="65535" frequency="11594" symbol_rate="27500" fec="3/5" modulation_mode="8PSK" polarization="H" />
+    <transponder tp_key="2016" sat_key="27" transport_stream_id="1" original_network_id="65535" frequency="11601" symbol_rate="2600" fec="3/4" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="819" sat_key="27" transport_stream_id="1" original_network_id="65535" frequency="11604" symbol_rate="2220" fec="5/6" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="820" sat_key="27" transport_stream_id="4096" original_network_id="8192" frequency="11624" symbol_rate="3800" fec="4/5" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="821" sat_key="27" transport_stream_id="0" original_network_id="0" frequency="11625" symbol_rate="7500" fec="1/2" modulation_mode="8PSK" polarization="H" />
@@ -988,7 +995,7 @@
     <transponder tp_key="931" sat_key="28" transport_stream_id="95" original_network_id="85" frequency="12437" symbol_rate="29900" fec="3/4" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="932" sat_key="28" transport_stream_id="8800" original_network_id="64511" frequency="12466" symbol_rate="29900" fec="5/6" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="933" sat_key="28" transport_stream_id="8900" original_network_id="318" frequency="12475" symbol_rate="29900" fec="3/4" modulation_mode="8PSK" polarization="H" />
-    <transponder tp_key="934" sat_key="28" transport_stream_id="9000" original_network_id="318" frequency="12520" symbol_rate="27500" fec="5/6" modulation_mode="QPSK" polarization="V" />
+    <transponder tp_key="934" sat_key="28" transport_stream_id="9000" original_network_id="318" frequency="12520" symbol_rate="27500" fec="2/3" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="935" sat_key="28" transport_stream_id="9100" original_network_id="318" frequency="12539" symbol_rate="30000" fec="5/6" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="936" sat_key="28" transport_stream_id="9200" original_network_id="318" frequency="12558" symbol_rate="27500" fec="5/6" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="937" sat_key="28" transport_stream_id="9300" original_network_id="318" frequency="12576" symbol_rate="27500" fec="3/4" modulation_mode="8PSK" polarization="H" />
@@ -1027,7 +1034,7 @@
     <transponder tp_key="968" sat_key="29" transport_stream_id="52011" original_network_id="366" frequency="11178" symbol_rate="30000" fec="3/5" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="969" sat_key="29" transport_stream_id="40100" original_network_id="366" frequency="11220" symbol_rate="30000" fec="3/5" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="970" sat_key="29" transport_stream_id="40200" original_network_id="366" frequency="11231" symbol_rate="42000" fec="4/5" modulation_mode="8PSK" polarization="V" />
-    <transponder tp_key="971" sat_key="29" transport_stream_id="1" original_network_id="100" frequency="11262" symbol_rate="30000" fec="2/3" modulation_mode="8PSK" polarization="H" />
+    <transponder tp_key="971" sat_key="29" transport_stream_id="1" original_network_id="366" frequency="11262" symbol_rate="30000" fec="2/3" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="972" sat_key="29" transport_stream_id="40400" original_network_id="366" frequency="11283" symbol_rate="30000" fec="2/3" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="973" sat_key="29" transport_stream_id="2" original_network_id="366" frequency="11304" symbol_rate="30000" fec="2/3" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="974" sat_key="29" transport_stream_id="40600" original_network_id="366" frequency="11324" symbol_rate="30000" fec="2/3" modulation_mode="8PSK" polarization="V" />
@@ -1248,8 +1255,8 @@
     <transponder tp_key="1185" sat_key="31" transport_stream_id="0" original_network_id="0" frequency="11617" symbol_rate="27500" fec="3/4" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="1186" sat_key="31" transport_stream_id="0" original_network_id="0" frequency="11626" symbol_rate="14400" fec="3/5" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="1187" sat_key="31" transport_stream_id="0" original_network_id="0" frequency="11642" symbol_rate="3599" fec="AUTO" modulation_mode="8PSK" polarization="V" />
-    <transponder tp_key="1188" sat_key="31" transport_stream_id="1" original_network_id="65535" frequency="11645" symbol_rate="1600" fec="3/4" modulation_mode="8PSK" polarization="V" />
-    <transponder tp_key="1189" sat_key="31" transport_stream_id="1" original_network_id="1" frequency="11662" symbol_rate="2220" fec="3/4" modulation_mode="8PSK" polarization="V" />
+    <transponder tp_key="1188" sat_key="31" transport_stream_id="1" original_network_id="1" frequency="11645" symbol_rate="1600" fec="3/4" modulation_mode="8PSK" polarization="V" />
+    <transponder tp_key="1189" sat_key="31" transport_stream_id="1" original_network_id="65535" frequency="11662" symbol_rate="2220" fec="3/4" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="1190" sat_key="31" transport_stream_id="1" original_network_id="65535" frequency="11665" symbol_rate="1480" fec="3/4" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="1191" sat_key="31" transport_stream_id="1" original_network_id="65535" frequency="11668" symbol_rate="1480" fec="3/4" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="1192" sat_key="31" transport_stream_id="65535" original_network_id="65535" frequency="11669" symbol_rate="2142" fec="3/4" modulation_mode="QPSK" polarization="V" />
@@ -1260,7 +1267,7 @@
     <transponder tp_key="1197" sat_key="31" transport_stream_id="1" original_network_id="0" frequency="11678" symbol_rate="2850" fec="7/8" modulation_mode="QPSK" polarization="V" />
     <transponder tp_key="1198" sat_key="31" transport_stream_id="1" original_network_id="1" frequency="11681" symbol_rate="3220" fec="5/6" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="1199" sat_key="31" transport_stream_id="1" original_network_id="65535" frequency="11681" symbol_rate="1480" fec="3/4" modulation_mode="8PSK" polarization="V" />
-    <transponder tp_key="1200" sat_key="31" transport_stream_id="0" original_network_id="0" frequency="11684" symbol_rate="1480" fec="3/4" modulation_mode="QPSK" polarization="V" />
+    <transponder tp_key="1200" sat_key="31" transport_stream_id="0" original_network_id="1" frequency="11684" symbol_rate="1480" fec="3/4" modulation_mode="QPSK" polarization="V" />
     <transponder tp_key="1201" sat_key="31" transport_stream_id="0" original_network_id="0" frequency="11685" symbol_rate="1480" fec="3/4" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="1202" sat_key="31" transport_stream_id="1" original_network_id="65535" frequency="11687" symbol_rate="2220" fec="5/6" modulation_mode="QPSK" polarization="V" />
     <transponder tp_key="1203" sat_key="31" transport_stream_id="4096" original_network_id="8192" frequency="11690" symbol_rate="1300" fec="5/6" modulation_mode="QPSK" polarization="V" />
@@ -1495,7 +1502,7 @@
     <transponder tp_key="1424" sat_key="35" transport_stream_id="2027" original_network_id="2" frequency="12226" symbol_rate="27500" fec="2/3" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="1425" sat_key="35" transport_stream_id="2028" original_network_id="2" frequency="12246" symbol_rate="27500" fec="2/3" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="1426" sat_key="35" transport_stream_id="2029" original_network_id="2" frequency="12266" symbol_rate="27500" fec="2/3" modulation_mode="8PSK" polarization="H" />
-    <transponder tp_key="1427" sat_key="35" transport_stream_id="2005" original_network_id="2" frequency="12285" symbol_rate="27500" fec="2/3" modulation_mode="8PSK" polarization="V" />
+    <transponder tp_key="1427" sat_key="35" transport_stream_id="2016" original_network_id="2" frequency="12285" symbol_rate="27500" fec="2/3" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="1428" sat_key="35" transport_stream_id="2031" original_network_id="2" frequency="12304" symbol_rate="27500" fec="2/3" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="1429" sat_key="35" transport_stream_id="2032" original_network_id="2" frequency="12324" symbol_rate="27500" fec="2/3" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="1430" sat_key="35" transport_stream_id="2033" original_network_id="2" frequency="12344" symbol_rate="27500" fec="2/3" modulation_mode="8PSK" polarization="H" />
@@ -1615,7 +1622,7 @@
     <transponder tp_key="1536" sat_key="39" transport_stream_id="1" original_network_id="65535" frequency="11681" symbol_rate="1480" fec="3/4" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="1537" sat_key="39" transport_stream_id="1" original_network_id="65535" frequency="11684" symbol_rate="5425" fec="5/6" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="1538" sat_key="39" transport_stream_id="0" original_network_id="0" frequency="11692" symbol_rate="3200" fec="2/3" modulation_mode="8PSK" polarization="V" />
-    <transponder tp_key="1539" sat_key="39" transport_stream_id="1" original_network_id="1" frequency="11694" symbol_rate="3200" fec="2/3" modulation_mode="8PSK" polarization="H" />
+    <transponder tp_key="1539" sat_key="39" transport_stream_id="21" original_network_id="100" frequency="11694" symbol_rate="3200" fec="2/3" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="1540" sat_key="39" transport_stream_id="65414" original_network_id="878" frequency="11747" symbol_rate="27500" fec="3/4" modulation_mode="AUTO" polarization="H" />
     <transponder tp_key="1541" sat_key="39" transport_stream_id="65419" original_network_id="878" frequency="11766" symbol_rate="27500" fec="3/4" modulation_mode="AUTO" polarization="V" />
     <transponder tp_key="1542" sat_key="39" transport_stream_id="65502" original_network_id="878" frequency="11785" symbol_rate="27500" fec="3/4" modulation_mode="AUTO" polarization="H" />
@@ -1958,7 +1965,7 @@
     <transponder tp_key="1861" sat_key="48" transport_stream_id="7" original_network_id="5677" frequency="12506" symbol_rate="2300" fec="3/4" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="1862" sat_key="48" transport_stream_id="65535" original_network_id="65535" frequency="12506" symbol_rate="1100" fec="5/6" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="1863" sat_key="48" transport_stream_id="65535" original_network_id="65535" frequency="12509" symbol_rate="1666" fec="5/6" modulation_mode="8PSK" polarization="V" />
-    <transponder tp_key="1864" sat_key="48" transport_stream_id="179" original_network_id="5677" frequency="12510" symbol_rate="2300" fec="3/4" modulation_mode="8PSK" polarization="H" />
+    <transponder tp_key="1864" sat_key="48" transport_stream_id="65535" original_network_id="65535" frequency="12510" symbol_rate="2300" fec="3/4" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="1865" sat_key="48" transport_stream_id="1" original_network_id="1" frequency="12514" symbol_rate="2170" fec="5/6" modulation_mode="QPSK" polarization="V" />
     <transponder tp_key="1866" sat_key="48" transport_stream_id="4096" original_network_id="8192" frequency="12515" symbol_rate="1809" fec="3/4" modulation_mode="QPSK" polarization="V" />
     <transponder tp_key="1867" sat_key="48" transport_stream_id="0" original_network_id="0" frequency="12518" symbol_rate="1100" fec="5/6" modulation_mode="8PSK" polarization="V" />
@@ -1996,7 +2003,7 @@
     <transponder tp_key="1897" sat_key="49" transport_stream_id="0" original_network_id="0" frequency="11549" symbol_rate="12999" fec="AUTO" modulation_mode="QPSK" polarization="V" />
     <transponder tp_key="1898" sat_key="49" transport_stream_id="9" original_network_id="1374" frequency="12522" symbol_rate="27500" fec="3/4" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="1899" sat_key="49" transport_stream_id="1" original_network_id="0" frequency="12531" symbol_rate="2500" fec="5/6" modulation_mode="8PSK" polarization="H" />
-    <transponder tp_key="1900" sat_key="49" transport_stream_id="0" original_network_id="0" frequency="12535" symbol_rate="8333" fec="3/5" modulation_mode="8PSK" polarization="H" />
+    <transponder tp_key="1900" sat_key="49" transport_stream_id="0" original_network_id="0" frequency="12535" symbol_rate="8333" fec="5/6" modulation_mode="8PSK" polarization="H" />
     <transponder tp_key="1901" sat_key="49" transport_stream_id="0" original_network_id="0" frequency="12647" symbol_rate="1024" fec="3/4" modulation_mode="QPSK" polarization="H" />
     <transponder tp_key="1902" sat_key="49" transport_stream_id="0" original_network_id="0" frequency="12648" symbol_rate="5120" fec="3/4" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="1903" sat_key="49" transport_stream_id="1" original_network_id="1" frequency="12654" symbol_rate="2800" fec="3/4" modulation_mode="QPSK" polarization="V" />
@@ -2109,7 +2116,7 @@
     <transponder tp_key="1994" sat_key="57" transport_stream_id="100" original_network_id="65535" frequency="12537" symbol_rate="1600" fec="5/6" modulation_mode="QPSK" polarization="V" />
     <transponder tp_key="1995" sat_key="57" transport_stream_id="1" original_network_id="65535" frequency="12538" symbol_rate="2222" fec="5/6" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="1996" sat_key="57" transport_stream_id="0" original_network_id="0" frequency="12548" symbol_rate="7500" fec="5/6" modulation_mode="8PSK" polarization="V" />
-    <transponder tp_key="1997" sat_key="57" transport_stream_id="0" original_network_id="0" frequency="12554" symbol_rate="2222" fec="5/6" modulation_mode="8PSK" polarization="V" />
+    <transponder tp_key="1997" sat_key="57" transport_stream_id="0" original_network_id="0" frequency="12553" symbol_rate="2222" fec="5/6" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="1998" sat_key="57" transport_stream_id="1" original_network_id="65535" frequency="12563" symbol_rate="1500" fec="5/6" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="1999" sat_key="57" transport_stream_id="0" original_network_id="0" frequency="12566" symbol_rate="1500" fec="5/6" modulation_mode="8PSK" polarization="V" />
     <transponder tp_key="2000" sat_key="57" transport_stream_id="0" original_network_id="0" frequency="12568" symbol_rate="1500" fec="5/6" modulation_mode="8PSK" polarization="V" />

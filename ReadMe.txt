@@ -9,15 +9,15 @@ Morpheus883's Site: http://morpheus883.altervista.org/
 GitHub Repository: https://github.com/morpheus883/
 and available on the main Sat Sites
 
-Spark Settings 14th August 2020, © by Morpheus883
+Spark Settings 27th August 2020, © by Morpheus883
 
 Settings for Images based on Spark FW's:
 
 Statistics:
 # Clarke Belt covered: 47.5°W - 76.5°E
-# Satellites: 87 (Ku Band TP)
+# Satellites: 82 (Ku Band TP)
 # Ordered Provider Lists: 31
-# Services: 12.809
+# Services: 12.751
 
 [30.0 W] Meo
 [30.0 W] Nos

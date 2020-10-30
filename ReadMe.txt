@@ -17,7 +17,7 @@ Statistics:
 # Clarke Belt covered: 47.5°W - 76.5°E
 # Satellites: 82 (Ku Band TP)
 # Ordered Provider Lists: 31
-# Services: 12.799
+# Services: 12.818
 
 [30.0 W] Meo
 [30.0 W] Nos
